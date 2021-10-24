@@ -1,0 +1,5 @@
+#rofi.theme: /usr/share/rofi/themes/lb.rasi
+
+rofi.modi:  ssh,window,drun,run
+#rofi.theme: ~/.config/rofi/themes/default.rasi
+rofi.theme: ~/.config/rofi/themes/seaboats.rasi
